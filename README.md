@@ -4,5 +4,5 @@
 * [加工设备](device/README.md)   
 
 
-基础基础 : 
-& [工业工程](ie/README.md)
+基础基础 :  
+* [工业工程](ie/README.md)
